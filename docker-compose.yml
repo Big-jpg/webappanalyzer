@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  analyzer:
+    build: .
+    volumes:
+      - .:/app
+    command: python batch_scan.py

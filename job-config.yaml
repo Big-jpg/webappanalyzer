@@ -1,0 +1,6 @@
+urls:
+  - https://corestack.io
+  - https://cloudbolt.io
+  - https://example.com
+
+output: "output.csv"
